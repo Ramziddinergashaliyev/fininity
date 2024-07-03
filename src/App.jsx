@@ -13,8 +13,8 @@ function App() {
       <Header />
       <Hero />
       <Category />
-      <Job />
       <Service />
+      <Job />
       <News />
       <Footer />
     </div>
